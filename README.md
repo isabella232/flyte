@@ -74,8 +74,9 @@ Resources that would help you get a better understanding of Flyte.
  - Written in Golang and optimized for performance
 
 ## Coming Soon
- - Single Task Execution support
- - Reactive pipelines
+ - Single Task Execution support - Coming in milestone 0.5.0
+ - Raw container task Support (no flytekit required) - Coming in milestone 0.5.0
+ - Reactive pipelines 
  - More integrations
 
 # Available Plugins
@@ -86,6 +87,11 @@ Resources that would help you get a better understanding of Flyte.
  - K8s Spark (native pyspark and java/scala)
  - Qubole Hive
  - Presto Queries
+ - Distributed Pytorch - Pytorch operator
+
+## Coming Soon
+ - Sagemaker Training and HPO
+ - TFoperator
 
 # Current Usage 
 - Lyft Rideshare
